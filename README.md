@@ -130,8 +130,11 @@ The code generates a two-block Quasi-Cyclic Moderate-Density Parity-Check (QC-MD
 ### Requirements
 The code requires Python 3.9+ and standard scientific packages. Dependencies are listed in `requirements.txt`:
 * `torch >= 2.0.0`
+* `torch-geometric >= 2.3.0`
+* `networkx >= 3.0`
 * `numpy >= 1.22.0`
 * `scipy >= 1.8.0`
+* `pandas >= 1.5.0`
 * `scikit-learn >= 1.0.0`
 * `matplotlib >= 3.5.0`
 
