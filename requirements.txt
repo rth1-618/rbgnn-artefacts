@@ -1,0 +1,9 @@
+# --- Core Environment ---
+jupyter
+torch_geometric
+
+# --- Your Future Additions Go Here ---
+pandas
+scikit-learn
+matplotlib
+networkx

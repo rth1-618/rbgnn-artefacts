@@ -1,0 +1,735 @@
+{
+    "generated_at": "2026-09-12T11:05:53.252775",
+    "files": [
+        {
+            "file": "FINAL_RESEARCH_SUMMARY.json",
+            "bytes": 1167588,
+            "sha256": "1cb7a291534e96c41a8a99fe051fc183234b4a3ef6ae7ec9778f28d9a4b64278"
+        },
+        {
+            "file": "Phase_1_Topology\\H_master.npy",
+            "bytes": 32386,
+            "sha256": "96ebab0d7f372d0417d5df07c03abd78126599fa854f880705aeee14f621e9f9"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_000\\H.npy",
+            "bytes": 32386,
+            "sha256": "a9543aa996b7f33907180d6027cb59f13116966de7f69bda979bfe182ecaca90"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_000\\locked_dataset.npz",
+            "bytes": 238734,
+            "sha256": "25c88e207add806fc0cf460c3409f5bb3c0a729ecb06800940ae7aea79636b0a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_000\\structural_certificate.json",
+            "bytes": 1219,
+            "sha256": "1f6ac46a01d33385e8efb3efb765f54180145485474011b0ff9969380c548563"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_000\\topology.json",
+            "bytes": 622,
+            "sha256": "87857388ea0016a5e796e64600fe0fa5fb5af6e787945943cd6e8b5c2fbe72cf"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_001\\H.npy",
+            "bytes": 32386,
+            "sha256": "b2983f286a40a011c628f2699a37645839be7e46271f219413b9aa2a391f4f94"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_001\\locked_dataset.npz",
+            "bytes": 238130,
+            "sha256": "af3502aad8a723664587ce2f00d46ac060b1f53bcf3057917e99a8089cd45690"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_001\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "68b807a223f87b4cb5164191d6fa460b918c1a445c9a3f749049336b032af682"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_001\\topology.json",
+            "bytes": 603,
+            "sha256": "03c2557fe9d0553a178f7029b8ee1f5ce41eeff55630f2c26488b42c2aa75b78"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_002\\H.npy",
+            "bytes": 32386,
+            "sha256": "0a6cc35da11687c8941777092f600d932327ac6cdcea91119545a668b3f23523"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_002\\locked_dataset.npz",
+            "bytes": 238142,
+            "sha256": "846dbbfa58e565678c7ca36d8b22d94817a6dbd24d813e59d407b66dd67128a6"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_002\\structural_certificate.json",
+            "bytes": 1195,
+            "sha256": "22c4ba1fb2b3b2d767dd920509fb0ce68babb8f974d4b4b36f6d421169df14bb"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_002\\topology.json",
+            "bytes": 602,
+            "sha256": "79800219ef76cae573b90a7cfc8e00e80cbc9ea2304ca1b7001087f0b316220d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_003\\H.npy",
+            "bytes": 32386,
+            "sha256": "bb9a75a29969f888b6bf9393fa653eaceac6513402dab6ca9d3b6be030b76171"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_003\\locked_dataset.npz",
+            "bytes": 238744,
+            "sha256": "d99e3facf1528321eab8de236ee3708979fb2e9b947e4c8cc8a45274f7f2336b"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_003\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "adf11efaadb3d74bec9737829bcebc6b8ce45e77a5849d5625248238d6a8d350"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_003\\topology.json",
+            "bytes": 603,
+            "sha256": "c678a9406a78915d158f65e40b1ed17ea4c60ed4371dc0ba5563d1c68e2c1b16"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_004\\H.npy",
+            "bytes": 32386,
+            "sha256": "a44748de8b3ea6c476f44fde82dfeea56e8ec1e3ae4c54ee334afeac8e820333"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_004\\locked_dataset.npz",
+            "bytes": 238684,
+            "sha256": "2c98a186752ab2d1218b0201f726d63c5a74db8e04672953523b8a9ebc3120d9"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_004\\structural_certificate.json",
+            "bytes": 1171,
+            "sha256": "8b600a0cff70e9b6265401f57e1110838580897776b3f6984594cc93253fa116"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_004\\topology.json",
+            "bytes": 582,
+            "sha256": "926d22ec9f56c9908fe8fc7346bcd18a3c613f9a5e5d85f04f8e82a747043e0a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_005\\H.npy",
+            "bytes": 32386,
+            "sha256": "1e1a5e18e9260b05aa1b17b98433e973e619141db843c5f827e4c00dee3addb6"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_005\\locked_dataset.npz",
+            "bytes": 238886,
+            "sha256": "1459e41840739ec5a77f0fa01638c7b8e358ee0779b17081cb5e9c4bd5553630"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_005\\structural_certificate.json",
+            "bytes": 1193,
+            "sha256": "327d48c7978ec5e61fcb18316378874ca944feb64ef25b8b2125d4b5c7f64927"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_005\\topology.json",
+            "bytes": 600,
+            "sha256": "3f3e0c2411deeaa2e903505fbc59947be23a812178c2ab6bbc18c88afbb9c591"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_006\\H.npy",
+            "bytes": 32386,
+            "sha256": "703350d7226551162202370cdadea410f994b77303beb9a7afa45103c750cfa5"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_006\\locked_dataset.npz",
+            "bytes": 238719,
+            "sha256": "f4acbbd6344adfafe7e0f3e29ff374511113181eca09cfae30ea2db376e0d8ac"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_006\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "43d8f1cda6b333ea4fd38953505c1f82f44fc23270baf8b6da893269e5d4fb4b"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_006\\topology.json",
+            "bytes": 604,
+            "sha256": "d75acd220662888001cf9247313c2a1fa49c7c7920c89f2c1b568279765c56c8"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_007\\H.npy",
+            "bytes": 32386,
+            "sha256": "1b5f8a50d6db0276de7e182181560f699771b6c50d19d62f98e2c082d8d3c8dc"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_007\\locked_dataset.npz",
+            "bytes": 239172,
+            "sha256": "2cdc91dc091faf687e973120e6ee11020562223e636ad0c9bc7f1f45ee27abfb"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_007\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "44fe314e0bcc3d349461c73eded95365293539313ad9458d536029d461e5bb2c"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_007\\topology.json",
+            "bytes": 603,
+            "sha256": "8a7a7adb3c2abcbdbbb4589a75e2dc75a5d5d041488dd1b02c0f71e27932758e"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_008\\H.npy",
+            "bytes": 32386,
+            "sha256": "4513cc79ce74a49743358d01e6d48335b5a1cd1e86d8e06bf4eff86af9cd7d85"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_008\\locked_dataset.npz",
+            "bytes": 236227,
+            "sha256": "79ccf8aa5dcd6d5a33a72e482de0d17ecbcc7817e3a422bdf98bd4f555154eec"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_008\\structural_certificate.json",
+            "bytes": 1219,
+            "sha256": "54e489227d2abd9d985d46ff05da31b32fc0b16aa7f3914694599520a2f29f5e"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_008\\topology.json",
+            "bytes": 622,
+            "sha256": "229320045623ad11c5ef9d70fd7407c5785e4c736602b9d5310127007c3252bf"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_009\\H.npy",
+            "bytes": 32386,
+            "sha256": "ddbd2a8fcb3a2914f740e1c27147a17e306c9efb61a6b5d6bd1854fa98f15f2b"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_009\\locked_dataset.npz",
+            "bytes": 238641,
+            "sha256": "4ce71701435585209ec474a1831e387c474245246aa08f0f4523168ec70fa11d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_009\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "6e23315272bb04c3e4bfdd889f9fbd532988925de22ae9d54122c8e5bdbe6687"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_009\\topology.json",
+            "bytes": 603,
+            "sha256": "ade9b894d9397d64ed06bac94b0df1b50d557c0ba7ae1e72e6ea20a52e714e95"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_010\\H.npy",
+            "bytes": 32386,
+            "sha256": "24eac14860967bf321fda3525ccba98eff6454ed371df6584e8e6711936c9f36"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_010\\locked_dataset.npz",
+            "bytes": 238796,
+            "sha256": "684845f9ddacf4c2e6eb50f04d989918199b682982836398a47b07e711a1cc01"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_010\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "546038a5d3bfc8dc8712d92e44378e0babec6495dbbacefd98db6a3d96541d03"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_010\\topology.json",
+            "bytes": 603,
+            "sha256": "8a44fb06cb96b87bb1611bc17be7a63a828e9c2db37eabcc304c416cb4b9128d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_011\\H.npy",
+            "bytes": 32386,
+            "sha256": "e8cd1a1a26c76dafd422ecc794f6dd0e002f91039322e13e0d3251968d1360a7"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_011\\locked_dataset.npz",
+            "bytes": 238720,
+            "sha256": "c631b70ed9cb9ccb00283884bdd34a871b818ff14b2d40aec967150f90033d69"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_011\\structural_certificate.json",
+            "bytes": 1171,
+            "sha256": "85f6ce6a86a6aa6fcdb0a1ddf4eb2e962286abb7395f911513a117a638d0f815"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_011\\topology.json",
+            "bytes": 582,
+            "sha256": "e833247fb70fcfb1d3137cbf107cace8039f620f92c0de83da0705e9984c5ada"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_012\\H.npy",
+            "bytes": 32386,
+            "sha256": "9b92cbf48ee5ff741ac727e3d1530530f1e204ebcd8e4a2dafe9b08a878b839a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_012\\locked_dataset.npz",
+            "bytes": 238755,
+            "sha256": "9b493baa75e0aad7ea159fad32ba1e0523a6a79490c440590b733ef7196fefbc"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_012\\structural_certificate.json",
+            "bytes": 1174,
+            "sha256": "f15e2c1f29818672274509a048ddf2851cd3fc6e32c35e5777e2307f567f7c95"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_012\\topology.json",
+            "bytes": 585,
+            "sha256": "fd191d46eb90738cf2dc8e0326791498f98e5c121f3d7cb85ec107700d1d7159"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_013\\H.npy",
+            "bytes": 32386,
+            "sha256": "5036cbb47f16447eb91a3bc629ba577ebd18b263c023ddf35213289f7096ce2a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_013\\locked_dataset.npz",
+            "bytes": 238791,
+            "sha256": "3070066a3ea4ae8e4f7f58f570bc33f40a6988068aeffa693d44f793e59370a2"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_013\\structural_certificate.json",
+            "bytes": 1219,
+            "sha256": "fa54ac52bf60d9c8d351be1c7fbc6cee19ef35fcef6bf1d6a1f23fa592373451"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_013\\topology.json",
+            "bytes": 622,
+            "sha256": "b722c73782270036f8d80302f186c82f4b8ec6ef57eb539a3442c18cfb630508"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_014\\H.npy",
+            "bytes": 32386,
+            "sha256": "4bd25bcd9dba5c78efe8d3c2699ce4159eb62f577d59e3205c8e378583907f8a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_014\\locked_dataset.npz",
+            "bytes": 238584,
+            "sha256": "d0e511f65443218a7f9fdb58906bc26cad0b18215090e5a913645b8a748d166c"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_014\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "434b86bc432afb33c965bab38b6b2b4a867c231790f466e0e53f19ff7cb7c1ee"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_014\\topology.json",
+            "bytes": 604,
+            "sha256": "6a458bb6c7c79445e124c12dfbe821b57492c5da3d190e28951e4f0e05d0ee7f"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_015\\H.npy",
+            "bytes": 32386,
+            "sha256": "f1c87b7ad5884390764b66c59b766e0b470df07643145bf93bc9bfb22c8b5f13"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_015\\locked_dataset.npz",
+            "bytes": 238984,
+            "sha256": "713015f408e127f04725e0c7b97c42ced6dffee596876d8e8753cf795640821b"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_015\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "d66bb0f34680382794dfc9b7a79192507789851ff4fa0b094042536cdcb82c5d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_015\\topology.json",
+            "bytes": 603,
+            "sha256": "df8bde7a43ec6946809d1abbe4d77fee853d3ae643f945eb7ed1cf30f3961365"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_016\\H.npy",
+            "bytes": 32386,
+            "sha256": "f043c3f2a108bde25ddb366cad1521d98d8803eaacbded8d9005eb7095bf70b6"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_016\\locked_dataset.npz",
+            "bytes": 238429,
+            "sha256": "be2013a33cb0fa9a5829e9688965db079fc9defcc3b86f45cd33a849d99402e2"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_016\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "7d881f8802d916feb799a633dfbfd0f20aa91f68dd68015a83a6ccf45f0529cc"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_016\\topology.json",
+            "bytes": 603,
+            "sha256": "309f6ad57564a20fd14a70ddb20865ecb8cd4642ff27adff242b33f9d043ab37"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_017\\H.npy",
+            "bytes": 32386,
+            "sha256": "66ab795ce16103c664ef952b63df9f6c7ffd27cac96b59033002856222c294b9"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_017\\locked_dataset.npz",
+            "bytes": 238716,
+            "sha256": "768faf4aaa19ca771978b7d746f2e1f31c4f6d8daa9f5d2e7f4ef69a1b57ad30"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_017\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "a452724c16034948ab4b76936a43d8d02d0fa8354d98961a3a2bc83450df4148"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_017\\topology.json",
+            "bytes": 604,
+            "sha256": "1db02e5564246c4e545f3b11f6c992a8bdbbec267738b119eeee6caa248c9fbb"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_018\\H.npy",
+            "bytes": 32386,
+            "sha256": "aa91c7e678d60e26d490c91489d27ae0a1720504556e99f0647bf7cef923c1d8"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_018\\locked_dataset.npz",
+            "bytes": 237784,
+            "sha256": "4618e9be19b822df018fe71fba0063fc3d086e9ce4881c0dbb10f451a1b156ba"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_018\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "ba03543b58b990086dd737cb3a85e8748c057124eef540bd90472ed4daa54441"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_018\\topology.json",
+            "bytes": 603,
+            "sha256": "25b56f627ede323a1933beb5615ace20ad26af896c1ed794aed08c26389ac5e8"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_019\\H.npy",
+            "bytes": 32386,
+            "sha256": "a7465e73413d36afc9ac7dbb2d28d828f5be2be025e4a1dc3396b09ed11cac50"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_019\\locked_dataset.npz",
+            "bytes": 238826,
+            "sha256": "eb320d46bc9170bbf49cae10d5d13bfeb96c4a554e164ebce975ab02e05f5773"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_019\\structural_certificate.json",
+            "bytes": 1170,
+            "sha256": "bce8eb5fcebb1d18567e13d22f0117651ed14f5ec40a599731cb53f0e89a0270"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_graph_019\\topology.json",
+            "bytes": 581,
+            "sha256": "ab531db03bb033c0894993875a19f1112d44a0f6eb99219f96b4f4c1e993db6a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Test\\test_suite_index.json",
+            "bytes": 22071,
+            "sha256": "a27a76d71b056e17090e12932ca9f914ac471691aafa1c1f29307066368f6272"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_000\\H.npy",
+            "bytes": 32386,
+            "sha256": "d6960cad524a8170ca4b3ff22940e038f8f16324dee6c522cdf3a70e86ba23fb"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_000\\locked_dataset.npz",
+            "bytes": 54654,
+            "sha256": "538b3417a2fec33e3e941fd0ff2506414f27e4ce76d4e984092d62763875a970"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_000\\structural_certificate.json",
+            "bytes": 1195,
+            "sha256": "22c4ba1fb2b3b2d767dd920509fb0ce68babb8f974d4b4b36f6d421169df14bb"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_000\\topology.json",
+            "bytes": 602,
+            "sha256": "79800219ef76cae573b90a7cfc8e00e80cbc9ea2304ca1b7001087f0b316220d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_001\\H.npy",
+            "bytes": 32386,
+            "sha256": "6d53ec42bc633852adee930bc1e130ce1962afbfa8bd800c7c95e4ef9630c3c8"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_001\\locked_dataset.npz",
+            "bytes": 54804,
+            "sha256": "e96215a3939441d1ee707f0939def500fe0b82e1a58188f130de289256873a45"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_001\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "58ea4a1fe78d2cb857d353523ecf4f1316352b4d3b46d040e12a229b6369668d"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_001\\topology.json",
+            "bytes": 604,
+            "sha256": "d554c57855998e01cdbf57d399c20bb94c51d98197d4178795012f89ce786c5e"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_002\\H.npy",
+            "bytes": 32386,
+            "sha256": "f0547b7c70c20466dc6b3ff0ff6d1e88b907f17dc4b3f17e911e4c35230b59e6"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_002\\locked_dataset.npz",
+            "bytes": 54710,
+            "sha256": "793898a3a85140943d5e4c11f1d73fe7830dbae7e27cc07bedc2631a4e533e1f"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_002\\structural_certificate.json",
+            "bytes": 1219,
+            "sha256": "e42668da4546d9114127634f55557fb7c923dad5c1fdd4a089ac0db91094b2db"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_002\\topology.json",
+            "bytes": 622,
+            "sha256": "5758094f0f96235896e10888947e3ad9e0333d7cd436c3167a52ebb75986a9fd"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_003\\H.npy",
+            "bytes": 32386,
+            "sha256": "2aef28126f91511e85c5ace26d591bc43bc3ccc98e3ebd36c4b9f08fa1d75567"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_003\\locked_dataset.npz",
+            "bytes": 54862,
+            "sha256": "5cf7b9a68db82d858617ecab39488b92cbd624204bf9f899555f789a0d803545"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_003\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "9e5e61cd5e4f6499cf4eeccba2041eef2cefb4bc1ff923e9311a5be86502c7a2"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_003\\topology.json",
+            "bytes": 604,
+            "sha256": "a03bb0deaf74e39e63f613a5ec285945115157dc0f034f8695c71dd975f1d940"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_004\\H.npy",
+            "bytes": 32386,
+            "sha256": "e38fefa043714f91e44f03770c2fb910b3a43aab00f1a34cac581628732f3247"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_004\\locked_dataset.npz",
+            "bytes": 54697,
+            "sha256": "5557e0f4b1c0dc4d850ae4dcd48b8035da535d570bd54e56d0a9493a1fe6cfe2"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_004\\structural_certificate.json",
+            "bytes": 1197,
+            "sha256": "0944abadde5f793efabacdde39b98966a16b7d41c1dc8d4216ea5815919e9967"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_004\\topology.json",
+            "bytes": 604,
+            "sha256": "644ab62339d88a6bbfad5819b9b39347cca6575a4ffc7218098323f101969c80"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_005\\H.npy",
+            "bytes": 32386,
+            "sha256": "2e2de19bbea0585fa7d650b35cc8581376cc82b9ffb0bad651d0ea14e4893858"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_005\\locked_dataset.npz",
+            "bytes": 54605,
+            "sha256": "3b74e708b369e0fcb141eeaa5d44fbf17e950e5940a85cb23cc41a6cfd0a82c2"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_005\\structural_certificate.json",
+            "bytes": 1170,
+            "sha256": "bce8eb5fcebb1d18567e13d22f0117651ed14f5ec40a599731cb53f0e89a0270"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_005\\topology.json",
+            "bytes": 581,
+            "sha256": "ab531db03bb033c0894993875a19f1112d44a0f6eb99219f96b4f4c1e993db6a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_006\\H.npy",
+            "bytes": 32386,
+            "sha256": "ff8546b5954501810be55f85efea72410d246b4949130773d892b614d0e61083"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_006\\locked_dataset.npz",
+            "bytes": 54679,
+            "sha256": "3bbb06c2141f31cf1f778b33f27cfe2cecac1ee46ada98894076ec4b8ebc008f"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_006\\structural_certificate.json",
+            "bytes": 1174,
+            "sha256": "43c5c3fd6e54f756aed0c2a3c0fa1ff5f0e154bb59157299001b2fa8faca0e6e"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_006\\topology.json",
+            "bytes": 585,
+            "sha256": "3eb69ea3d7444f93ff2cb234dff3104ed668b8cffed41db763faac9b621add43"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_007\\H.npy",
+            "bytes": 32386,
+            "sha256": "67e0ade4ab0308a8b1a2b3a0285bfcfef8c3c16f7b8d1b5279b3b10b98cd3ae7"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_007\\locked_dataset.npz",
+            "bytes": 54703,
+            "sha256": "0bdf6b2d302dfbbb9c122769f236150b8a7f8839288a69d29c584db8634ab06a"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_007\\structural_certificate.json",
+            "bytes": 1196,
+            "sha256": "b3f3971f588ad9036d9f16338306a13023f0e338536bf49104ee43237ec90538"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_graph_007\\topology.json",
+            "bytes": 603,
+            "sha256": "e09861076d22d29d50b0d1eee3c2d85f39eb1851c8edf867af2992dafcf63f3b"
+        },
+        {
+            "file": "Phase_1_Topology\\Locked_Validation\\validation_suite_index.json",
+            "bytes": 8923,
+            "sha256": "c78e78bbe1a0cf12ba140bf694cf7f656a3cfc077778977b2a7e58c621683928"
+        },
+        {
+            "file": "Phase_1_Topology\\Phase_1_Topological_Profile.png",
+            "bytes": 1170906,
+            "sha256": "82bb27565c17348e5323a659103b761ae9237fdb9fae3d3e456c62f3f2a834b5"
+        },
+        {
+            "file": "Phase_1_Topology\\master_structural_certificate.json",
+            "bytes": 1173,
+            "sha256": "d9ddbea44a4d2b1ae11fd37c5b8622a900cb7623df9c3a85dda36ce3e869a1b4"
+        },
+        {
+            "file": "Phase_1_Topology\\master_topology_profile.json",
+            "bytes": 584,
+            "sha256": "c2a5e5f4df7714d4ace588b2ebd1d81571d87b90b9d7a96e36a93e2e2ba3847e"
+        },
+        {
+            "file": "Phase_1_Topology\\test_topology_summary.json",
+            "bytes": 16283,
+            "sha256": "1b72592d6e5c1bd57e246819f2aa79928984d10a27c5e502c3f913f5e54bcc51"
+        },
+        {
+            "file": "Phase_1_Topology\\validation_topology_summary.json",
+            "bytes": 6500,
+            "sha256": "a519a7dd9a85bafc9b5615835f6addd0cf212dc34cb4b3b1685b44b0f7ff483b"
+        },
+        {
+            "file": "Phase_2_Classical_Baselines\\bitflip_threshold_tuning.csv",
+            "bytes": 317,
+            "sha256": "ef27de06cbedb65ab375bf0bec3fa9f5757c656732941aebaa10520365cba7d7"
+        },
+        {
+            "file": "Phase_2_Classical_Baselines\\bitflip_threshold_tuning.json",
+            "bytes": 1452,
+            "sha256": "2d010fa86ad7dfc43234df984dcbd3978daa3535568b46eedefd6b32cee1cc52"
+        },
+        {
+            "file": "Phase_2_Classical_Baselines\\classical_baseline_results.json",
+            "bytes": 24457,
+            "sha256": "0ef85685e01bbcc5242b9307097500fceedacbd196a7d470f16fed01cf511be3"
+        },
+        {
+            "file": "Phase_3_RBGNN_Architecture\\architecture_verification.json",
+            "bytes": 362,
+            "sha256": "da44b505668bba2bc750f0072c7d2e9850f01c970e274b3dda6e5a237d2b0284"
+        },
+        {
+            "file": "Phase_3_RBGNN_Architecture\\model_architecture_summary.json",
+            "bytes": 3213,
+            "sha256": "e53c093b8b81e4d5f9995993b853e7bdf0df65d628767c74597ef0c3e5bba96f"
+        },
+        {
+            "file": "Phase_3_RBGNN_Architecture\\untrained_model_checkpoint.pth",
+            "bytes": 453013,
+            "sha256": "d007a8f7e4831ffcf7db956bbb2cd0910b30499b7ad175004bff285a7b1c0920"
+        },
+        {
+            "file": "Phase_4_Training\\Phase_4_Training_Profile.png",
+            "bytes": 644912,
+            "sha256": "bd2e1ec21e0e2cc1e1efd7e0e5467d44d3150c700c35db0e341e32e34c35381e"
+        },
+        {
+            "file": "Phase_4_Training\\best_gnn_checkpoint.pth",
+            "bytes": 1359591,
+            "sha256": "5a9f98cb933dc67cd7303f656bea5c65de51f008da3912afcf915dcf729eabbe"
+        },
+        {
+            "file": "Phase_4_Training\\best_inference_model.pth",
+            "bytes": 452809,
+            "sha256": "75043f4148cc1ad58d7ed7eb812ac6a9886fc4216654eb7a31ec8a93fa0fb661"
+        },
+        {
+            "file": "Phase_4_Training\\best_validation_snapshot.json",
+            "bytes": 1702,
+            "sha256": "cc2ed94fe53dd662f66f43525ab62e44b1b0a127558cf62656c1c36e5c5725e0"
+        },
+        {
+            "file": "Phase_4_Training\\latest_gnn_checkpoint.pth",
+            "bytes": 1359059,
+            "sha256": "0339f8392066b29385afd4cb073922259da22f8c2836c3c34005b5f2be4e58ad"
+        },
+        {
+            "file": "Phase_4_Training\\training_metrics_log.json",
+            "bytes": 63489,
+            "sha256": "a8ca22cb8af22854ab7f768a3226493b03ac1896d02873770482ad9e3541476d"
+        },
+        {
+            "file": "Phase_5_Evaluation\\Phase_5_Graph_Generalization.png",
+            "bytes": 448294,
+            "sha256": "f1dc6fa6157f006aeaeb26bdce03bfa738020fbea1596ff306c95acd0ade9b1f"
+        },
+        {
+            "file": "Phase_5_Evaluation\\Phase_5_Master_Publication_Plot.png",
+            "bytes": 1027404,
+            "sha256": "1b663c0691cda2ba10b09b2f13556dac9cc36d75f3d603d4d2067d1783cc034d"
+        },
+        {
+            "file": "Phase_5_Evaluation\\Phase_5_Supplementary_Analysis.png",
+            "bytes": 468827,
+            "sha256": "9423e777e6fbd48ce0492c3affa161cf5f65ce5e4f420ef7ec6722a9e1188570"
+        },
+        {
+            "file": "Phase_5_Evaluation\\failure_topology_association.json",
+            "bytes": 32304,
+            "sha256": "58f1679d7e217edd674007eaba6f147a9ac0e2c262a01e45ce8e68c84f30bb7d"
+        },
+        {
+            "file": "Phase_5_Evaluation\\final_evaluation_results.json",
+            "bytes": 1015590,
+            "sha256": "85b17faee8b2ed5fb41a3e31cff8a5c6a8491321c0021fe9c1da6a4ab2217308"
+        },
+        {
+            "file": "Phase_5_Evaluation\\graph_level_performance_table.csv",
+            "bytes": 41072,
+            "sha256": "01cef97410f5228bb004188c41cbf8fdc87eef51342daee3be142647c6aef0b6"
+        },
+        {
+            "file": "Phase_5_Evaluation\\latency_benchmark.json",
+            "bytes": 1233,
+            "sha256": "2937b64fdbb6e55c55d96f5fb6cc68f1af636acd8d998cd282f9f8b4bd3687b4"
+        },
+        {
+            "file": "Phase_5_Evaluation\\latent_pca_data.npz",
+            "bytes": 84919,
+            "sha256": "dad5f85d436bea569fec1045c9f10bb4142df21181f3298656de373306d475b2"
+        },
+        {
+            "file": "Phase_5_Evaluation\\pooled_performance_table.csv",
+            "bytes": 4487,
+            "sha256": "18df7e1be2ad75a3beb3c6a8a8f04e3350926b302beb4a1265e19baa9cd74b03"
+        },
+        {
+            "file": "Phase_5_Evaluation\\residual_error_histogram_data.npz",
+            "bytes": 1668,
+            "sha256": "ad1d1df10d3b746d640ca58686cbbfe9bff15a70b56268f8cff82f476c530c59"
+        },
+        {
+            "file": "config_hyperparams.json",
+            "bytes": 1735,
+            "sha256": "3dde384006c5138de4f27bfacb2cba983a1a3878b62c41761b9267186b3c177b"
+        },
+        {
+            "file": "sanity_checks.json",
+            "bytes": 383,
+            "sha256": "e99e0a4cfa99f7acf33ddb5c38f538a036801511abd819789b0c3cd4c323bf14"
+        },
+        {
+            "file": "system_metadata.json",
+            "bytes": 462,
+            "sha256": "35a4e79923226706c5392a0e7c11610e01759ebe1e9981f04b02a8e134f4716c"
+        }
+    ]
+}

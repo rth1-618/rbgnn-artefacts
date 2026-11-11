@@ -1,0 +1,598 @@
+{
+    "graph_count": 20,
+    "t_values": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "frames_per_t": 1000,
+    "graphs": [
+        {
+            "graph_id": 0,
+            "H_sha256": "ec34cb8273df473825617b1c2eb0c04eb9b91c763fd443ddb98a848e40db9284",
+            "directory": "test_graph_000",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 2032,
+                "variable_4cycle_participation_mean": 16.0,
+                "variable_4cycle_participation_std": 2.0,
+                "variable_4cycle_participation_max": 18,
+                "cn_overlap_spectrum": {
+                    "0": 4064,
+                    "1": 3048,
+                    "2": 508,
+                    "3": 254,
+                    "4": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 1,
+            "H_sha256": "62aa1339932176a11e6940b44b278d70cc044a8fdccce651a6fac0d57452ac22",
+            "directory": "test_graph_001",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1397,
+                "variable_4cycle_participation_mean": 11.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 15,
+                "cn_overlap_spectrum": {
+                    "0": 3810,
+                    "1": 3302,
+                    "2": 635,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 2,
+            "H_sha256": "d7083ff05fdbfa8d9293f3514ffbee1a37571b66bcc417853a7f95a1a425dd9c",
+            "directory": "test_graph_002",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1143,
+                "variable_4cycle_participation_mean": 9.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 13,
+                "cn_overlap_spectrum": {
+                    "0": 3683,
+                    "1": 3429,
+                    "2": 762,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 3,
+            "H_sha256": "0abbb96746e6171472de5c13194ebf75001fcf54f49427081d612f430089c6a2",
+            "directory": "test_graph_003",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1270,
+                "variable_4cycle_participation_mean": 10.0,
+                "variable_4cycle_participation_std": 0.0,
+                "variable_4cycle_participation_max": 10,
+                "cn_overlap_spectrum": {
+                    "0": 3683,
+                    "1": 3556,
+                    "2": 508,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 4,
+            "H_sha256": "3a77ac0904c8a4149e7c0acab74a43de9e884e7117c08b5d58d547162f78721a",
+            "directory": "test_graph_004",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 762,
+                "variable_4cycle_participation_mean": 6.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 10,
+                "cn_overlap_spectrum": {
+                    "0": 3429,
+                    "1": 3810,
+                    "2": 762
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 5,
+            "H_sha256": "ecc02021a573e17b61f9127e816c1b06926b5d8cd3c61ccaa624bedd62ba80d8",
+            "directory": "test_graph_005",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 889,
+                "variable_4cycle_participation_mean": 7.0,
+                "variable_4cycle_participation_std": 0.0,
+                "variable_4cycle_participation_max": 7,
+                "cn_overlap_spectrum": {
+                    "0": 3429,
+                    "1": 3937,
+                    "2": 508,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 6,
+            "H_sha256": "8d014b69bd8450917a9ccc9e38de557299f65c454da5eee295ae65c87f40b128",
+            "directory": "test_graph_006",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 17,
+                "cn_overlap_spectrum": {
+                    "0": 4191,
+                    "1": 2413,
+                    "2": 1270,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 7,
+            "H_sha256": "3f98cbf6c9a4ed859266c6169bbc5b70c7cba8d3a74968527925306acb395f86",
+            "directory": "test_graph_007",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1270,
+                "variable_4cycle_participation_mean": 10.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 11,
+                "cn_overlap_spectrum": {
+                    "0": 3683,
+                    "1": 3556,
+                    "2": 508,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 8,
+            "H_sha256": "45aebe7f42ca7051f7367718836bf9f91ae70730d2192f1405e4a34cca66671f",
+            "directory": "test_graph_008",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 3.0,
+                "variable_4cycle_participation_max": 16,
+                "cn_overlap_spectrum": {
+                    "0": 3810,
+                    "1": 3429,
+                    "2": 508,
+                    "3": 127,
+                    "4": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 9,
+            "H_sha256": "3c706284c58b987d0b16b26e2d7db73358eb1c64f4873b6a6ce4b4983821af26",
+            "directory": "test_graph_009",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1270,
+                "variable_4cycle_participation_mean": 10.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 11,
+                "cn_overlap_spectrum": {
+                    "0": 3810,
+                    "1": 3175,
+                    "2": 889,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 10,
+            "H_sha256": "8ecff94abaf803de28eef04436e2819e1471155adf4873c511faad4bf4e6b636",
+            "directory": "test_graph_010",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 17,
+                "cn_overlap_spectrum": {
+                    "0": 3937,
+                    "1": 3048,
+                    "2": 889,
+                    "4": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 11,
+            "H_sha256": "61c33c85d5b89a834481ac2bfcbbc03ea27ba8307650360acad1d0f75077a28c",
+            "directory": "test_graph_011",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 889,
+                "variable_4cycle_participation_mean": 7.0,
+                "variable_4cycle_participation_std": 3.0,
+                "variable_4cycle_participation_max": 10,
+                "cn_overlap_spectrum": {
+                    "0": 3556,
+                    "1": 3556,
+                    "2": 889
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 12,
+            "H_sha256": "c8b4957bd6280fb56b9cfb35163c68371cd7002b905f17b75926ae972ce70fc5",
+            "directory": "test_graph_012",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1270,
+                "variable_4cycle_participation_mean": 10.0,
+                "variable_4cycle_participation_std": 0.0,
+                "variable_4cycle_participation_max": 10,
+                "cn_overlap_spectrum": {
+                    "0": 3937,
+                    "1": 2794,
+                    "2": 1270
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 13,
+            "H_sha256": "c7ab47ebf9fe2ef1a481fbe39a9a0e8fa76c86046d5c7afe8fd51b566d179c6b",
+            "directory": "test_graph_013",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 2286,
+                "variable_4cycle_participation_mean": 18.0,
+                "variable_4cycle_participation_std": 2.0,
+                "variable_4cycle_participation_max": 20,
+                "cn_overlap_spectrum": {
+                    "0": 4318,
+                    "1": 2540,
+                    "2": 762,
+                    "3": 254,
+                    "4": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 14,
+            "H_sha256": "61152a3a4dadcccd71a373bfeecef4580166c7f3a6c8342e98667940f53c82b7",
+            "directory": "test_graph_014",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1397,
+                "variable_4cycle_participation_mean": 11.0,
+                "variable_4cycle_participation_std": 0.0,
+                "variable_4cycle_participation_max": 11,
+                "cn_overlap_spectrum": {
+                    "0": 3937,
+                    "1": 2921,
+                    "2": 1016,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 15,
+            "H_sha256": "6e00f997c1d0ba82239a68a44400938b06373065b756c856859d608df2822d76",
+            "directory": "test_graph_015",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 14,
+                "cn_overlap_spectrum": {
+                    "0": 4064,
+                    "1": 2794,
+                    "2": 889,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 16,
+            "H_sha256": "0c0ceaac086863f27e5c66785d067225bd8605ebd1acd587541291ab5b0ac1c2",
+            "directory": "test_graph_016",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1778,
+                "variable_4cycle_participation_mean": 14.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 18,
+                "cn_overlap_spectrum": {
+                    "0": 4064,
+                    "1": 2921,
+                    "2": 635,
+                    "3": 381
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 17,
+            "H_sha256": "e1973592856b34ccf998e70abf2a347840197ed9b19320d9dab4a68fc4d2437f",
+            "directory": "test_graph_017",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 3.0,
+                "variable_4cycle_participation_max": 16,
+                "cn_overlap_spectrum": {
+                    "0": 4191,
+                    "1": 2413,
+                    "2": 1270,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 18,
+            "H_sha256": "2f4f23784a7fc2ff4bce52b4a728b7e14f54771c29390711160ad5e8fdedb47a",
+            "directory": "test_graph_018",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 2032,
+                "variable_4cycle_participation_mean": 16.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 17,
+                "cn_overlap_spectrum": {
+                    "0": 4318,
+                    "1": 2413,
+                    "2": 889,
+                    "3": 381
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 19,
+            "H_sha256": "57cdcdf84c078101e7fad40aeafe8d9812f855500e3731c64c3609c00f1161f9",
+            "directory": "test_graph_019",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 889,
+                "variable_4cycle_participation_mean": 7.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 8,
+                "cn_overlap_spectrum": {
+                    "0": 3556,
+                    "1": 3556,
+                    "2": 889
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        }
+    ]
+}

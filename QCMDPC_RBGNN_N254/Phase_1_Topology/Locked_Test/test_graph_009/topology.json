@@ -1,0 +1,24 @@
+{
+    "N": 254,
+    "r": 127,
+    "W": 14,
+    "column_degree": 7,
+    "row_degree_min": 14,
+    "row_degree_max": 14,
+    "column_degree_min": 7,
+    "column_degree_max": 7,
+    "edge_count": 1778,
+    "matrix_density": 0.05511811023622047,
+    "exact_4_cycles": 1270,
+    "variable_4cycle_participation_mean": 10.0,
+    "variable_4cycle_participation_std": 1.0,
+    "variable_4cycle_participation_max": 11,
+    "cn_overlap_spectrum": {
+        "0": 3810,
+        "1": 3175,
+        "2": 889,
+        "3": 127
+    },
+    "block_0_circulant": true,
+    "block_1_circulant": true
+}

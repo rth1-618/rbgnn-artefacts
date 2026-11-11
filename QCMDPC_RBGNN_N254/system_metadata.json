@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-09-12T09:45:45.488545",
+    "python_version": "3.13.9",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "torch_version": "2.15.0.dev20260911+cu130",
+    "numpy_version": "2.3.5",
+    "networkx_version": "3.5",
+    "device": "cuda",
+    "cuda_available": true,
+    "cuda_version": "13.0",
+    "gpu_name": "NVIDIA GeForce RTX 5080",
+    "gpu_count": 1
+}

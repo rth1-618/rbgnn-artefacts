@@ -1,0 +1,23 @@
+{
+    "forward_pass_ok": true,
+    "logit_shape": [
+        8,
+        254
+    ],
+    "expected_logit_shape": [
+        8,
+        254
+    ],
+    "embedding_shape": [
+        8,
+        254,
+        64
+    ],
+    "expected_embedding_shape": [
+        8,
+        254,
+        64
+    ],
+    "parameter_count": 110145,
+    "all_passed": true
+}

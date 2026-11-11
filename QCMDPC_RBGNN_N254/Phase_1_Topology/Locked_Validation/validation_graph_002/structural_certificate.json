@@ -1,0 +1,43 @@
+{
+    "all_checks_passed": true,
+    "checks": {
+        "shape_correct": true,
+        "row_regular": true,
+        "column_regular": true,
+        "edge_identity": true,
+        "density_identity": true,
+        "block_0_circulant": true,
+        "block_1_circulant": true
+    },
+    "analytical_identities": {
+        "N_equals_2r": true,
+        "E_equals_rW": true,
+        "column_degree_equals_W_over_2": true,
+        "density_equals_W_over_N": true
+    },
+    "topology": {
+        "N": 254,
+        "r": 127,
+        "W": 14,
+        "column_degree": 7,
+        "row_degree_min": 14,
+        "row_degree_max": 14,
+        "column_degree_min": 7,
+        "column_degree_max": 7,
+        "edge_count": 1778,
+        "matrix_density": 0.05511811023622047,
+        "exact_4_cycles": 2032,
+        "variable_4cycle_participation_mean": 16.0,
+        "variable_4cycle_participation_std": 5.0,
+        "variable_4cycle_participation_max": 21,
+        "cn_overlap_spectrum": {
+            "0": 4191,
+            "1": 2667,
+            "2": 889,
+            "3": 127,
+            "4": 127
+        },
+        "block_0_circulant": true,
+        "block_1_circulant": true
+    }
+}

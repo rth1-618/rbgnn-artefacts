@@ -1,0 +1,44 @@
+{
+    "candidates": [
+        {
+            "threshold_fraction": 0.6,
+            "threshold": 5,
+            "dfr": 0.28205,
+            "ber": 0.010362992125984252,
+            "mean_syndrome_convergence_iterations": 5.332600116729736,
+            "median_syndrome_convergence_iterations": 3.0
+        },
+        {
+            "threshold_fraction": 0.7,
+            "threshold": 5,
+            "dfr": 0.28205,
+            "ber": 0.010362992125984252,
+            "mean_syndrome_convergence_iterations": 5.332600116729736,
+            "median_syndrome_convergence_iterations": 3.0
+        },
+        {
+            "threshold_fraction": 0.5,
+            "threshold": 4,
+            "dfr": 0.8822,
+            "ber": 0.4394513779527559,
+            "mean_syndrome_convergence_iterations": 11.844400405883789,
+            "median_syndrome_convergence_iterations": 13.0
+        },
+        {
+            "threshold_fraction": 0.4,
+            "threshold": 3,
+            "dfr": 1.0,
+            "ber": 0.510425,
+            "mean_syndrome_convergence_iterations": 13.0,
+            "median_syndrome_convergence_iterations": 13.0
+        }
+    ],
+    "selected": {
+        "threshold_fraction": 0.6,
+        "threshold": 5,
+        "dfr": 0.28205,
+        "ber": 0.010362992125984252,
+        "mean_syndrome_convergence_iterations": 5.332600116729736,
+        "median_syndrome_convergence_iterations": 3.0
+    }
+}

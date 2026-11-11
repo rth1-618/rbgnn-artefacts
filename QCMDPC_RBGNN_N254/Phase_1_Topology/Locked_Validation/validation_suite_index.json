@@ -1,0 +1,244 @@
+{
+    "graph_count": 8,
+    "t_values": [
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "frames_per_t": 500,
+    "graphs": [
+        {
+            "graph_id": 0,
+            "H_sha256": "5b8cba39993456a80a00601c0d9caa7d303013cef38ac2afe7e2454ed479cf6d",
+            "directory": "validation_graph_000",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1143,
+                "variable_4cycle_participation_mean": 9.0,
+                "variable_4cycle_participation_std": 4.0,
+                "variable_4cycle_participation_max": 13,
+                "cn_overlap_spectrum": {
+                    "0": 3683,
+                    "1": 3429,
+                    "2": 762,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 1,
+            "H_sha256": "078f14d435d5fdf5e148dea861758e411a29e2b7284a7ba9b4b8016396b7058f",
+            "directory": "validation_graph_001",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1905,
+                "variable_4cycle_participation_mean": 15.0,
+                "variable_4cycle_participation_std": 2.0,
+                "variable_4cycle_participation_max": 17,
+                "cn_overlap_spectrum": {
+                    "0": 4318,
+                    "1": 2286,
+                    "2": 1143,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 2,
+            "H_sha256": "64d28c7c4e4a77f575818ba8cf9d5de4fe1b0519a99c44768b78be762d45d574",
+            "directory": "validation_graph_002",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 2032,
+                "variable_4cycle_participation_mean": 16.0,
+                "variable_4cycle_participation_std": 5.0,
+                "variable_4cycle_participation_max": 21,
+                "cn_overlap_spectrum": {
+                    "0": 4191,
+                    "1": 2667,
+                    "2": 889,
+                    "3": 127,
+                    "4": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 3,
+            "H_sha256": "c3666fdc425033739f6359608e23df21d070da108101659eb9deae7101266e03",
+            "directory": "validation_graph_003",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1778,
+                "variable_4cycle_participation_mean": 14.0,
+                "variable_4cycle_participation_std": 2.0,
+                "variable_4cycle_participation_max": 16,
+                "cn_overlap_spectrum": {
+                    "0": 4191,
+                    "1": 2540,
+                    "2": 1016,
+                    "3": 254
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 4,
+            "H_sha256": "371824ff00e93480918942489298c3367264ac15719e381bdea4137050c2563b",
+            "directory": "validation_graph_004",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1651,
+                "variable_4cycle_participation_mean": 13.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 14,
+                "cn_overlap_spectrum": {
+                    "0": 4191,
+                    "1": 2413,
+                    "2": 1270,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 5,
+            "H_sha256": "18afded3dd8312bb4de738f9cf7bedb60b270249f332a5138ecfa76b92aa7879",
+            "directory": "validation_graph_005",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 889,
+                "variable_4cycle_participation_mean": 7.0,
+                "variable_4cycle_participation_std": 1.0,
+                "variable_4cycle_participation_max": 8,
+                "cn_overlap_spectrum": {
+                    "0": 3556,
+                    "1": 3556,
+                    "2": 889
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 6,
+            "H_sha256": "686c8c699653797fbe3c74b828815ff41d032feae2364631a9cbd2a9bcfed090",
+            "directory": "validation_graph_006",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1397,
+                "variable_4cycle_participation_mean": 11.0,
+                "variable_4cycle_participation_std": 2.0,
+                "variable_4cycle_participation_max": 13,
+                "cn_overlap_spectrum": {
+                    "0": 4064,
+                    "1": 2540,
+                    "2": 1397
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        },
+        {
+            "graph_id": 7,
+            "H_sha256": "32527939d1edf6dfc9639f13d37fc1513cb0f2aafda3542cdb59df54fc7bf0a1",
+            "directory": "validation_graph_007",
+            "topology": {
+                "N": 254,
+                "r": 127,
+                "W": 14,
+                "column_degree": 7,
+                "row_degree_min": 14,
+                "row_degree_max": 14,
+                "column_degree_min": 7,
+                "column_degree_max": 7,
+                "edge_count": 1778,
+                "matrix_density": 0.05511811023622047,
+                "exact_4_cycles": 1270,
+                "variable_4cycle_participation_mean": 10.0,
+                "variable_4cycle_participation_std": 0.0,
+                "variable_4cycle_participation_max": 10,
+                "cn_overlap_spectrum": {
+                    "0": 3810,
+                    "1": 3175,
+                    "2": 889,
+                    "3": 127
+                },
+                "block_0_circulant": true,
+                "block_1_circulant": true
+            }
+        }
+    ]
+}

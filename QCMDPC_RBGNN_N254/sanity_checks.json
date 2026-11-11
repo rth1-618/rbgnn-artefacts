@@ -1,0 +1,17 @@
+{
+    "all_passed": true,
+    "H_shape": [
+        127,
+        254
+    ],
+    "row_degree": 14,
+    "column_degree": 7,
+    "exact_4_cycles": 1778,
+    "parameter_count": 110145,
+    "fixed_weight_error_generation": true,
+    "syndrome_generation": true,
+    "GNN_forward": true,
+    "bitflip_forward": true,
+    "minsum_forward": true,
+    "mcnemar_large_n": true
+}
