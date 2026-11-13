@@ -6,6 +6,8 @@ The R-BGNN architecture integrates Gated Recurrent Units (GRUs) directly into th
 
 This repository includes a pre-executed reference output folder, `QCMDPC_RBGNN_N254/`, allowing journal editors, reviewers, and researchers to verify all datasets, trained network parameters, baseline evaluations, and publication figures directly without needing to re-run the training pipeline.
 
+### [Click here to read the paper on arXiv](https://doi.org/10.48550/arXiv.2610.38479)
+
 ---
 
 ## 1. Quick Artifact Inspection Guide for Editors and Reviewers
